@@ -1,0 +1,17 @@
+c:\users\paweber\documents\visual studio 2013\Projects\TutorialMVVM\TutorialMVVM\bin\Debug\TutorialMVVM.exe
+c:\users\paweber\documents\visual studio 2013\Projects\TutorialMVVM\TutorialMVVM\bin\Debug\TutorialMVVM.pdb
+c:\users\paweber\documents\visual studio 2013\Projects\TutorialMVVM\TutorialMVVM\bin\Debug\FirstFloor.ModernUI.dll
+c:\users\paweber\documents\visual studio 2013\Projects\TutorialMVVM\TutorialMVVM\bin\Debug\FirstFloor.ModernUI.xml
+c:\users\paweber\documents\visual studio 2013\Projects\TutorialMVVM\TutorialMVVM\obj\Debug\TutorialMVVM.csprojResolveAssemblyReference.cache
+c:\users\paweber\documents\visual studio 2013\Projects\TutorialMVVM\TutorialMVVM\obj\Debug\MainWindow.baml
+c:\users\paweber\documents\visual studio 2013\Projects\TutorialMVVM\TutorialMVVM\obj\Debug\App.baml
+c:\users\paweber\documents\visual studio 2013\Projects\TutorialMVVM\TutorialMVVM\obj\Debug\MainWindow.g.cs
+c:\users\paweber\documents\visual studio 2013\Projects\TutorialMVVM\TutorialMVVM\obj\Debug\App.g.cs
+c:\users\paweber\documents\visual studio 2013\Projects\TutorialMVVM\TutorialMVVM\obj\Debug\TutorialMVVM_MarkupCompile.cache
+c:\users\paweber\documents\visual studio 2013\Projects\TutorialMVVM\TutorialMVVM\obj\Debug\TutorialMVVM.g.resources
+c:\users\paweber\documents\visual studio 2013\Projects\TutorialMVVM\TutorialMVVM\obj\Debug\TutorialMVVM.exe
+c:\users\paweber\documents\visual studio 2013\Projects\TutorialMVVM\TutorialMVVM\obj\Debug\TutorialMVVM.pdb
+c:\users\paweber\documents\visual studio 2013\Projects\TutorialMVVM\TutorialMVVM\obj\Debug\View\EmployeeListView.baml
+c:\users\paweber\documents\visual studio 2013\Projects\TutorialMVVM\TutorialMVVM\obj\Debug\View\EmployeeListView.g.cs
+c:\users\paweber\documents\visual studio 2013\Projects\TutorialMVVM\TutorialMVVM\obj\Debug\GeneratedInternalTypeHelper.g.cs
+c:\users\paweber\documents\visual studio 2013\Projects\TutorialMVVM\TutorialMVVM\obj\Debug\TutorialMVVM_MarkupCompile.lref
